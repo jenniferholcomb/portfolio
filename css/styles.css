@@ -2,10 +2,21 @@
  background-color: bisque;
  float: left;
  width: 50%;
+ height: 850px;
 }
 
 .column2{
   background-color: rgb(18, 85, 18);
   float: right;
   width: 50%
+  height: 850px;
+}
+
+p {
+  width: 60%;
+  margin-left: 60px;
+  font-style: italic;
+  text-align: justify;
+  font-family:Verdana;
+  line-height: 1.5;
 }
