@@ -2,7 +2,7 @@
  background-color: rgb(18, 85, 18);
  width: 62%;
  float: left;
- height: 1000px;
+ height: 900px;
  position: static;
 }
 
@@ -13,7 +13,7 @@
 
 .column2{
   background-color: bisque;
-  height: 1000px;
+  height: 900px;
 }
 
 p {
@@ -23,17 +23,6 @@ p {
   font-family: 'Letter Gothic Std';
   line-height: 1.5;
   color: whitesmoke;
-  opacity: .9;
-}
-
-p {
-  width: 60%;
-  font-style: italic;
-  text-align: justify;
-  font-family: 'Letter Gothic Std';
-  line-height: 1.5;
-  color: whitesmoke;
-
 }
 
 .centered-image {
@@ -46,7 +35,6 @@ p {
   padding: 20px;
   width: 85%;
   height: 65%;
-  aspect-ratio: 1;
   display: block;
 }
 
