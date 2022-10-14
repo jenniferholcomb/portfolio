@@ -8,19 +8,17 @@
 
 .column2{
   background-color: rgb(18, 85, 18);
-  width: 50%
-  float: right;
   height: 850px;
-  position: static;
+
 }
 
 .column2a {
-  width: 50%;
+  width: 25%;
   float: left;
 }
 
 .column2b {
-  width: 50%;
+  width: 25%;
   float: right;
 }
 
@@ -34,11 +32,11 @@ p {
 }
 
 .centered-image {
-  margin: 12px;
+  margin: auto;
   background-color: rgb(223, 218, 218);
   border: solid black;
   border-width: 1.5px;
   padding: 10px;
+  width: 85%;
   display: block;
-  width: 80%;
 }
