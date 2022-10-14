@@ -12,6 +12,16 @@
   height: 850px;
 }
 
+.column2a {
+  width: 50%;
+  float: left;
+}
+
+.column2b {
+  width: 50%;
+  float: right;
+}
+
 p {
   width: 60%;
   margin-left: 60px;
@@ -19,4 +29,9 @@ p {
   text-align: justify;
   font-family:Verdana;
   line-height: 1.5;
+}
+
+.centered-image {
+  margin: auto;
+  display: block:
 }
