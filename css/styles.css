@@ -1,15 +1,17 @@
 .column1 {
  background-color: bisque;
- float: left;
  width: 50%;
+ float: left;
  height: 850px;
+ position: static;
 }
 
 .column2{
   background-color: rgb(18, 85, 18);
-  float: right;
   width: 50%
+  float: right;
   height: 850px;
+  position: static;
 }
 
 .column2a {
@@ -32,6 +34,11 @@ p {
 }
 
 .centered-image {
-  margin: auto;
-  display: block:
+  margin: 12px;
+  background-color: rgb(223, 218, 218);
+  border: solid black;
+  border-width: 1.5px;
+  padding: 10px;
+  display: block;
+  width: 80%;
 }
