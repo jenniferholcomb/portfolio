@@ -6,12 +6,11 @@
  position: static;
 }
 
-.column1 h1 {
+h1 {
   font-family: 'Avenir Next';
   font-style: italic;
   color: rgba(190, 190, 244, 0.793);
   font-size: 65px;
-  margin-left: 60px;
 }
 
 .list {
@@ -20,7 +19,7 @@
   font-size: 15px;
   color: antiquewhite;
   opacity: .8;
-  width: 80%;
+  width: 85%;
   margin: auto;
   display: block;
 }
@@ -38,11 +37,12 @@
 }
 
 p {
-  width: 60%;
+  width: 50%;
   font-style: italic;
   font-family: 'Letter Gothic Std';
   line-height: 1.5;
   color: rgba(227, 227, 251, 0.793);
+  margin-bottom: 20px;
 }
 
 .centered-image {
