@@ -1,6 +1,6 @@
 .column1 {
  background-color: rgb(18, 85, 18);
- width: 50%;
+ width: 62%;
  float: left;
  height: 1000px;
  position: static;
@@ -18,7 +18,6 @@
 
 p {
   width: 60%;
-  margin-left: 60px;
   font-style: italic;
   text-align: justify;
   font-family: 'Letter Gothic Std';
@@ -27,28 +26,44 @@ p {
   opacity: .9;
 }
 
+p {
+  width: 60%;
+  font-style: italic;
+  text-align: justify;
+  font-family: 'Letter Gothic Std';
+  line-height: 1.5;
+  color: whitesmoke;
+
+}
+
 .centered-image {
   margin: auto;
   margin-top: 10px;
   background-color: rgb(255, 238, 218);
-  border: solid rgb(230, 207, 179);
-  border-width: 7px;
+  border: solid rgb(209, 189, 163);
+  border-width: 4px;
   border-radius: 12px;
   padding: 20px;
-  width: 80%;
-  height: 70%;
+  width: 85%;
+  height: 65%;
   aspect-ratio: 1;
   display: block;
 }
 
 .site-descrip {
-  width: 70%;
+  width: 80%;
   font-style: italic;
   text-align: left;
-  font-size: 14px;
+  font-size: 12px;
   font-family: 'Letter Gothic Std';
   line-height: 1.5;
   color: rgb(21, 20, 20);
   opacity: .9;
   margin-top: 10px;
+  margin-left: 30px;
 }
+
+.bio {
+  margin-left: 60px;
+  opacity: .9;
+}}
