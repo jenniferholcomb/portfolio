@@ -1,6 +1,6 @@
 .column1 {
  background-color: rgb(18, 85, 18);
- width: 62%;
+ width: 50%;
  float: left;
  height: 900px;
  position: static;
@@ -9,10 +9,29 @@
 .column1 h1 {
   font-family: 'Avenir Next';
   font-style: italic;
+  color: antiquewhite;
+}
+
+.list {
+  font-family: 'Avenir Light';
+  font-weight: 30;
+  font-size: 15px;
+  color: antiquewhite;
+  opacity: .9;
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+
+.bio-image {
+  margin-top: 10px;
+  width: 45%;
+  float: right;
+  margin-right: 60px;
 }
 
 .column2{
-  background-color: bisque;
+  background-color: rgb(238, 221, 201);
   height: 900px;
 }
 
@@ -28,12 +47,12 @@ p {
 .centered-image {
   margin: auto;
   margin-top: 10px;
-  background-color: rgb(255, 238, 218);
+  background-color: rgb(253, 241, 227);
   border: solid rgb(209, 189, 163);
-  border-width: 4px;
-  border-radius: 12px;
+  border-width: 2px;
+  border-radius: 10px;
   padding: 20px;
-  width: 85%;
+  width: 70%;
   height: 65%;
   display: block;
 }
@@ -48,10 +67,20 @@ p {
   color: rgb(21, 20, 20);
   opacity: .9;
   margin-top: 10px;
-  margin-left: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .bio {
   margin-left: 60px;
   opacity: .9;
-}}
+}
+
+.oof {
+  margin-top: 10px;
+  width: 45%;
+  float: right;
+  margin-right: 60px;
+  font-size: 12px;
+}
+
