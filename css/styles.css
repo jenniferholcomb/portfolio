@@ -1,0 +1,11 @@
+.column1 {
+ background-color: bisque;
+ float: left;
+ width: 50%;
+}
+
+.column2{
+  background-color: rgb(18, 85, 18);
+  float: right;
+  width: 50%
+}
