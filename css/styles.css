@@ -9,7 +9,9 @@
 .column1 h1 {
   font-family: 'Avenir Next';
   font-style: italic;
-  color: antiquewhite;
+  color: rgba(190, 190, 244, 0.793);
+  font-size: 65px;
+  margin-left: 60px;
 }
 
 .list {
@@ -17,8 +19,8 @@
   font-weight: 30;
   font-size: 15px;
   color: antiquewhite;
-  opacity: .9;
-  width: 60%;
+  opacity: .8;
+  width: 80%;
   margin: auto;
   display: block;
 }
@@ -38,10 +40,9 @@
 p {
   width: 60%;
   font-style: italic;
-  text-align: justify;
   font-family: 'Letter Gothic Std';
   line-height: 1.5;
-  color: whitesmoke;
+  color: rgba(227, 227, 251, 0.793);
 }
 
 .centered-image {
@@ -82,5 +83,9 @@ p {
   float: right;
   margin-right: 60px;
   font-size: 12px;
+}
+
+.emphasize {
+  color: rgba(0, 0, 255, 0.793);
 }
 
