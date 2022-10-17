@@ -1,8 +1,8 @@
 .column1 {
- background-color: rgb(18, 85, 18);
+ background-color: rgb(9, 52, 9);
  width: 50%;
  float: left;
- height: 900px;
+ height: 1500px;
  position: static;
 }
 
@@ -14,7 +14,7 @@ h1 {
 }
 
 .list {
-  font-family: 'Avenir Light';
+  font-family: 'Letter Gothic Std';
   font-weight: 30;
   font-size: 15px;
   color: antiquewhite;
@@ -33,7 +33,7 @@ h1 {
 
 .column2{
   background-color: rgb(238, 221, 201);
-  height: 900px;
+  height: 1500px;
 }
 
 p {
@@ -75,6 +75,7 @@ p {
 .bio {
   margin-left: 60px;
   opacity: .9;
+  margin-top: 50px;
 }
 
 .oof {
