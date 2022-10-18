@@ -22,7 +22,8 @@ This browser application allows users to explore the differents webpages develop
 
 ## Known Bugs
 
-* When page is viewed on smaller devices or mobiles, images may be distorted.
+* When page is viewed on smaller devices or mobiles, images distorted.  Alignment doesn't function correctly.
+* Background colors don't react to brower size.
 * If any issues are discovered, please email jenniferlholcomb@gmail.com.
 
 ## License
